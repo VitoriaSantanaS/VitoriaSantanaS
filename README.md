@@ -1,16 +1,33 @@
-## Hi there 👋
+<h3 align="left">Olá👋! Sou a Vitória e estou há um ano me especializando no desenvolvimento de aplicativos com Flutter e Dart.</h3>
 
-<!--
-**VitoriaSantanaS/VitoriaSantanaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h4 align="left">Durante esse tempo, tenho explorado intensamente essas tecnologias, criando interfaces modernas e funcionalidades personalizadas para entregar experiências de usuário excepcionais. <br>Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios no universo do desenvolvimento mobile!</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitoriaSantanaS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaSantanaS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/39/04/44/390444f4b2027868d48aa3b7289a39a6.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/VitoriaSantanaS/VitoriaSantanaS/output/snake.svg" alt="Snake animation" />
+
+###
 -->
