@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Durante esse tempo, tenho explorado intensamente essas tecnologias, criando interfaces modernas e funcionalidades personalizadas para entregar experiências de usuário excepcionais. <br>Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios no universo do desenvolvimento mobile!</h4>
+<h4 align="left"> Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios no universo do desenvolvimento mobile!</h4>
 
 ###
 
