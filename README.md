@@ -26,9 +26,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/39/04/44/390444f4b2027868d48aa3b7289a39a6.gif"  />
-</div>
-
-###
