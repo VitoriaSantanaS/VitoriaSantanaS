@@ -1,5 +1,5 @@
 <h1 align="left"> Olá! Sou a Vitória e estou há um ano me especializando no desenvolvimento de aplicativos com Flutter e Dart.</h1>
-<hr>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
