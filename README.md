@@ -1,5 +1,5 @@
-<h3 align="left">Olá! Sou a Vitória e estou há um ano me especializando no desenvolvimento de aplicativos com Flutter e Dart.</h3>
-
+<h1> align="left">Olá! Sou a Vitória e estou há um ano me especializando no desenvolvimento de aplicativos com Flutter e Dart.</h1>
+<hr>
 ###
 
 <h4 align="left"></h4>
