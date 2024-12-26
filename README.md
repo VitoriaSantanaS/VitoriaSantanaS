@@ -5,10 +5,6 @@ Sou a **Vitória**, e estou há um ano me especializando no desenvolvimento de a
 ---
 
 ## 
-
-![Dart Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg)
-![Flutter Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)
-
 ---
 
 ## 
