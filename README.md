@@ -1,15 +1,20 @@
-# Olá! 👋
+<h1> Iai! Sou a Vitória, seja bem-vindo! 👩‍💻 </h1> 
+<img src="assets/avatar.jpg" alt="Avatar" width="200" height="200" align="right">
 
-Sou a **Vitória**, e estou há um ano me especializando no desenvolvimento de aplicativos com **Flutter** e **Dart**.
-
-## 
-
-![Streak Graph](https://streak-stats.demolab.com?user=VitoriaSantanaS&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5)
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaSantanaS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=false)
-
-### 
 
 <div>
-<img scr="https://i.pinimg.com/originals/39/04/44/390444f4b2027868d48aa3b7289a39a6.gif" alt="gif animado" width="200" height="200" >
-<img src="assets/avatar.jpg" alt="Avatar" width="200" height="200">
+   <p> 💻 Desenvolvedora Mobile em Aprendizado | 📱 Explorando o universo de Flutter <img  src="assets/dart.svg" width="13">  e Dart  
+    <img src="assets/flutter.svg.svg" alt="Dart" width="13"> <br>  para 
+    criar experiências incríveis.. <br><br>
+     📖 Amante do aprendizado contínuo, atualmente mergulhando em Dart, Flutter, JavaScript, Html, Css, ampliando horizontes em design UX/UI e construindo meu portfolio. <br><br>
+     🚀 Sempre em busca de aprimorar minhas habilidades e construir aplicações que fazem a diferença!<br><br>
+  </p>
 </div>
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=VitoriaSantanaS&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5" 
+   >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaSantanaS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=false" width="380" >
+</div>
+
+
