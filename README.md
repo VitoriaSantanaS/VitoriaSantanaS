@@ -9,3 +9,5 @@ Sou a **Vitória**, e estou há um ano me especializando no desenvolvimento de a
 
 ### 
 
+<img src="assets/avatar.jpg" alt="Avatar" width="200" height="200" style="border-radius: 50%;">
+
