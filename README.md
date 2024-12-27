@@ -14,7 +14,7 @@
 <div>
   <img src="https://streak-stats.demolab.com?user=VitoriaSantanaS&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5" 
    >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaSantanaS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=false" width="380" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaSantanaS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=false" width="370" >
 </div>
 
 
