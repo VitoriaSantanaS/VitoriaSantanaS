@@ -7,7 +7,7 @@
     <img src="assets/flutter.svg" alt="Dart" width="13"> <br>  para 
     criar experiências incríveis.. <br><br>
      📖 Amante do aprendizado contínuo, atualmente mergulhando em Dart, Flutter, JavaScript, Html, Css, ampliando horizontes em design UX/UI e construindo meu portfolio. <br><br>
-     🚀 Sempre em busca de aprimorar minhas habilidades e construir aplicações que fazem a diferença!<br><br>
+     🚀 Sempre em busca de aprimorar minhas habilidades e construir aplicações que fazem a diferença!<br><br><br>
   </p>
 </div>
 
