@@ -22,7 +22,7 @@
     </td>
     <td>
       <img
-        align="left"
+        align="left" height="195"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaSantanaS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=false"
       />
     </td>
