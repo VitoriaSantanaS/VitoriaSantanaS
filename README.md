@@ -11,7 +11,7 @@
   </p>
 </div>
 
-### ⚙️ GitHub Analytics
+<h2>⚙️ GitHub Analytics</h2>
 <table>
   <tr>
     <td>
@@ -29,10 +29,22 @@
   </tr>
 </table>
 
-###
+<h2> ⭐ Redes </h2> 
+
+<div align="left">
+   <a href="https://discordapp.com/users/vivi.ss"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-santana-569335322/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
+</div>
+
+<h2> 🚀 Commits </h2>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VitoriaSantanaS/VitoriaSantanaS/output/snake.svg" alt="Snake animation" />
+<table>
+   <tr>
+      <td>
+         <img src="https://raw.githubusercontent.com/VitoriaSantanaS/VitoriaSantanaS/output/snake.svg" alt="Snake animation" />
+      </td>
+   </tr>
+</table>
 
-###
