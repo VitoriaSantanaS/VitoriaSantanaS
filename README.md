@@ -24,7 +24,7 @@
     <td>
       <br />
       <img
-        align="left"
+           align="left" height="195"
         src="https://github-readme-streak-stats.herokuapp.com/?user=VitoriaSantanaS&theme=dark&hide_border=false"
         alt="Github Stats"
       />
