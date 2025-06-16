@@ -17,17 +17,28 @@
     <td>
       <img
         align="left"
-        src="https://streak-stats.demolab.com?user=VitoriaSantanaS&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5"
+        src="https://github-readme-stats.vercel.app/api?VitoriaSantanaS=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
       />
     </td>
     <td>
       <img
-        align="left" height="195"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaSantanaS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=false"
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?VitoriaSantanaS=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?VitoriaSantanaS=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
       />
     </td>
   </tr>
 </table>
+
 
 <h2> ⭐ Redes </h2> 
 
