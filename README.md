@@ -4,8 +4,11 @@
 
 <div>
    <br> 
-Desenvolvedora Frontend e Mobile com experiência em Flutter e Dart.    <br> 
-Atuação em desenvolvimento Web com React, Next.js, TypeScript e Tailwind CSS.    <br> 
+Desenvolvedora Frontend e Mobile com experiência em Flutter, Dart, React, Next.js e TypeScript.   <br> 
+Atuação em projetos Web e Mobile, incluindo landing pages responsivas e dinâmicas com animações, e funcionalidades de aplicativos corporativos, como stories e gestão de telas.   <br> 
+Experiência com Flutter Modular, injeção de dependência, Clean Architecture e aplicação dos princípios SOLID.   <br> 
+Projetos em produção com integração a banco de dados e SEO otimizado (Open Graph tags), utilizando páginas dinâmicas e organização de código seguindo boas práticas de arquitetura e manutenção. <br> 
+
 </div>
 
 <h2>⚙️ GitHub Analytics</h2>
