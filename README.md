@@ -3,9 +3,11 @@
 
 
 <div>
-   <p> 💻 Desenvolvedora Flutter <img  src="assets/dart.svg" width="13"> e Dart  
-    <img src="assets/flutter.svg" alt="Dart" width="13"> 
-  </p>
+   <br> 
+**Desenvolvedora Frontend e Mobile** com experiência em Flutter e Dart.    <br> 
+Atuação em desenvolvimento Web com React, Next.js, TypeScript e Tailwind CSS.    <br> 
+Integração com Firebase para gerenciamento de dados dinâmicos.    <br> 
+Projetos em produção, incluindo landing pages dinâmicas, SEO otimizado (Open Graph tags) e páginas de produtos e categorias por ID.  <br> 
 </div>
 
 <h2>⚙️ GitHub Analytics</h2>
