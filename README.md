@@ -4,7 +4,7 @@
 
 <ul>
   <li>Desenvolvedora Frontend e Mobile com experiência em Flutter, Dart, React, Next.js e TypeScript.</li>
-  <li>Atuação em projetos Web e Mobile, incluindo landing pages responsivas com animações e funcionalidades de aplicativos corporativos.</li>
+  <li>Atuação em projetos Web e Mobile, incluindo projetos responsivos com animações e funcionalidades de aplicativos corporativos.</li>
   <li>Participação no desenvolvimento do app corporativo Promobell, criando telas, animações, transições personalizadas, utilizando Flutter Modular e estruturas de conteúdo dinâmico, como stories.</li>
   <li>Experiência em injeção de dependência, Clean Architecture e aplicação dos princípios SOLID.</li>
   <li>Projetos em produção com integração a banco de dados, páginas dinâmicas e SEO otimizado (Open Graph tags), seguindo boas práticas de arquitetura e organização de código.</li>
