@@ -1,5 +1,5 @@
 <h1> Iai! Sou a Vitória, seja bem-vindo/a! 👩‍💻 </h1> 
-<img src="assets/avatar.jpg" alt="Avatar" width="200" height="200" align="right">
+<img src="assets/projeto-25.webp" alt="Avatar" width="200" height="200" align="right">
 
 
 <ul>
