@@ -1,4 +1,4 @@
-<h1> oi 👩‍💻 </h1> 
+
 <img src="assets/projeto-25.webp" alt="Avatar" width="200" height="200" align="right">
 
 
