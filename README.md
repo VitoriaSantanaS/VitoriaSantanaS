@@ -17,13 +17,13 @@
     <td>
       <img
         align="left"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=VitoriaSantanaS&theme=dark&hide_border=false"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=viitoriasantana&theme=dark&hide_border=false"
       />
     </td>
     <td>
       <img
         align="left" height="195"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaSantanaS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=viitoriasantana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       alt="Github Stats"
       />
     </td>
